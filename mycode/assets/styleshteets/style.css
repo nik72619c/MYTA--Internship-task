@@ -1,0 +1,43 @@
+#show{
+
+    display: block;
+}
+
+#hide{
+
+   display: none; 
+
+
+}
+
+li{
+
+    cursor: pointer;
+}
+
+.show{
+
+    display: block;
+}
+
+.hide{
+
+   display: none; 
+
+
+}
+
+.questions, .sidebar{
+
+    border : 1px solid;
+}
+
+.chapter{
+
+  transition-duration: 0.5s;
+}
+
+.chapter:hover{
+
+color: red;
+}
